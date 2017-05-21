@@ -1,6 +1,4 @@
-# Weather-Progressive-Web-App
-Weather App - A Progressive Web App example.
-
+# Weather: A Progressive Web App
 
 ## Deploying to Firebase:
 * Create a Firebase account at `https://firebase.google.com/console/`
