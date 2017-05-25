@@ -1,5 +1,13 @@
 # Weather: A Progressive Web App
 
+## Running the App:
+* Install `http-server` as:
+```npm install http-server -g```
+* Run the server:
+```http-server```
+* Open the App in Web Browser:
+ ```http://127.0.0.1:8080/```
+
 ## Deploying to Firebase:
 * Create a Firebase account at `https://firebase.google.com/console/`
 * Install the Firebase tools via npm: 
