@@ -3,6 +3,8 @@
 ## Running the App:
 * Install `http-server` as:
 ```$npm install http-server -g```
+* Go to the Project root directory:
+```$cd Weather-Progressive-Web-App```
 * Run the server:
 ```$http-server```
 * Open the App in Web Browser:
